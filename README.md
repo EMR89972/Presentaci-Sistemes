@@ -8,3 +8,4 @@
 - David Rojas
 - Eric Marchante
 - Ferran Reyes Verge
+Hola soc l'Eric (estic fent l'exercisi a casa)
